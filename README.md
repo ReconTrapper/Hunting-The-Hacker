@@ -21,4 +21,4 @@ Having learned from my NMAP experiences, I've discovered the potential to analyz
    Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/edoardottt/scilla.git
